@@ -20,6 +20,27 @@
 
 /*! ------------- 2- CAROUSEL --------------- */
 
+.carousel-caption h5{
+    color: var(--red);
+    font-size: 2.5rem;
+   text-shadow: 3px 3px 3px black;
+}
+.carousel-caption p{
+    text-shadow: 3px 3px 3px black;
+    font-weight: 600;
+}
+.carousel-caption .btn{
+    width: 7rem;
+    margin-bottom: 1rem;
+}
+
+.carousel-indicators button{
+    background-color:var(--red) !important;
+    height: 0.4rem !important;
+    width: 3rem !important;
+    margin-right: 0.5rem !important;
+}
+
 /*! ------------ 3- ABOUT SECTION ----------- */
 
 /*! ------------- 4- INSTRUCTORS -------------*/
