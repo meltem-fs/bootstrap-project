@@ -1,3 +1,3 @@
 # Bootstrap Project
 
-https://bootstrapcw.netlify.app/
+[click here](https://meltem-fs.github.io/bootstrap-project/)
